@@ -1,3 +1,8 @@
+## 2.6.0
+
+* Updated dependencies, gradle
+* Flutter 3.29.0 compatability
+
 ## 2.3.0
 
 * Update dependencies, gradle
