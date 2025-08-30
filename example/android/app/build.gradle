@@ -6,7 +6,7 @@ plugins {
 
 android {
     namespace = "be.appmire.flutterkeychainexample"
-    compileSdkVersion 36
+    compileSdkVersion 35
 
 
     compileOptions {
