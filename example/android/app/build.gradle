@@ -6,7 +6,7 @@ plugins {
 
 android {
     namespace = "be.appmire.flutterkeychainexample"
-    compileSdkVersion 34
+    compileSdkVersion 36
 
 
     compileOptions {
@@ -25,7 +25,7 @@ android {
     defaultConfig {
         applicationId "be.appmire.flutterkeychainexample"
         minSdkVersion flutter.minSdkVersion
-        targetSdkVersion 34
+        targetSdkVersion 35
             versionCode = flutter.versionCode
         versionName = flutter.versionName
         // testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
